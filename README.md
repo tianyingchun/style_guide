@@ -1,0 +1,1 @@
+### The style document guide automatically generator
